@@ -1,27 +1,21 @@
-# Portafolio
+# 🚀 Portafolio Personal en Angular y TailwindCSS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+Bienvenido a mi portafolio personal, una representación dinámica de mis habilidades y proyectos como desarrollador. He utilizado Angular, uno de los frameworks más populares y robustos de JavaScript, para la lógica y estructura del sitio. En cuanto al diseño, me he decantado por TailwindCSS, una herramienta de utilidad de primera clase que permite crear diseños modernos y responsivos con gran facilidad.
 
-## Development server
+## 🔍 Características Principales:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Diseño responsivo adaptado a todos los dispositivos.
+- Interacciones dinámicas gracias a las capacidades de Angular.
+- Estilo moderno y limpio con la versatilidad de TailwindCSS.
+- Secciones dedicadas para habilidades, experiencia, educación y proyectos.
 
-## Code scaffolding
+## 🔧 Instalación y Uso:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clona el repositorio.
+2. Instala las dependencias con `npm install`.
+3. Corre el proyecto localmente con `ng serve`.
+4. Abre tu navegador en [http://localhost:4200/](http://localhost:4200/) para ver el portafolio en acción.
 
-## Build
+## 🤝 Contribuciones y Feedback:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Si tienes sugerencias, comentarios o encuentras algún error, no dudes en abrir un issue o enviarme un mensaje.
