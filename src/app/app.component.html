@@ -1,13 +1,12 @@
-
-
-<div class="flex flex-col min-h-screen">
+<div class="flex min-h-screen flex-col">
   <div class="flex-grow">
     <app-header></app-header>
-<app-saludo></app-saludo>
-<canvas id="canvas" class="fixed top-0 left-1/2 transform -translate-x-1/2 w-screen h-screen pointer-events-none"></canvas>
+    <app-saludo></app-saludo>
+    <canvas
+      id="canvas"
+      class="pointer-events-none fixed left-1/2 top-0 h-screen w-screen -translate-x-1/2 transform"
+    ></canvas>
   </div>
 
   <app-footer></app-footer>
 </div>
-
-
